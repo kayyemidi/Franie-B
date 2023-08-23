@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Document</title>
+</head>
+<body>
+  <form align="left">
+     <label for="email">Email address:</label>
+        <input type="text" id="email" name="email">
+<br><br>
+      <label for="pass">Password:</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="text" id="pass" name="pass">
+        <p></p>
+      
+    <input type="checkbox" id="ml" name="ml">
+  <label for="ml">Male</label>
+<p></p>
+             <input type="checkbox" id="fm" name="female">
+                <label for="fm">Female</label>
+
+
+
+      </form>
+      <br>
+        <br>
+      <ul>
+        <li>Coffee</li>
+          <li>Tea</li>
+
+      </ul>
+            <form align="center">
+               <input type="radio" id="bt" name="bt">
+                   <label for="bt">Black Tea</label>
+                   <br>
+                     <br>
+
+                      <input type="radio" id="gt" name="gt">
+                         <label for="gt">Green Tea</label>
+
+            </form>
+        <ul>
+
+        <li>Milk</li>
+        </ul>
+  
+  <input type="submit" >
+     
+</body>
+</html>
